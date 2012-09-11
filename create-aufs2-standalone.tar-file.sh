@@ -16,4 +16,4 @@ cd ..
 tar cvfz $dest.tar.gz aufs2-standalone
 rm -rf /tmp/aufs$$
 
-echo && echo "latest aufs3-standalone.tar.gz created as $dest.tar.gz"
+echo && echo "latest aufs2-standalone.tar.gz created as $dest.tar.gz"
