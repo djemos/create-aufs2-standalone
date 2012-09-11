@@ -2,3 +2,5 @@
 # Script to get the latest aufs2-standalone from git and create a tar.gz file to be userd from SLKBUILD
 # to build the kernelive
 # aufs2 is for linux kernel 2.6.35 ... 2.6.39  
+
+# Dimitris Tzemos (djemos(at)slackel.gr, djemos(at)salixos.org
